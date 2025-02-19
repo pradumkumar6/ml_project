@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=i_FdiQMwKiw
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 010928207563.dkr.ecr.ap-south-1.amazonaws.com/pradum
+    - Save the URI: 010928207563.dkr.ecr.us-east-1.amazonaws.com/pradyum
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
